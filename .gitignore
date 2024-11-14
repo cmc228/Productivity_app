@@ -1,0 +1,35 @@
+# Unity generated files and folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# OS-specific files
+.DS_Store
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# Personal configuration files
+*.userprefs
+
+# Visual Studio and Visual Studio Code configuration files
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.unityproj
+.idea/
+*.pidb
+*.booproj
+*.pidb.meta
+*.booproj.meta
+
+# Other Unity-specific files
+*.unitypackage
+*.asset
+Search.settings
